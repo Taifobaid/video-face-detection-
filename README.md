@@ -1,6 +1,6 @@
-# video-face-detection
+# Video-Face-Detection
 ## Python Code:
-import cv2   
+### import cv2   
 ### Load the cascade  
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')  
   
