@@ -31,5 +31,10 @@ cv2.imshow('Video', img)
           
 ### Release the VideoCapture object  
 cap.release()  
+## Picture From The Result : 
+![scve](https://user-images.githubusercontent.com/67175109/126001646-917ad265-a1be-4545-9ba9-926ca8bbfe6b.PNG)
+![vsdc](https://user-images.githubusercontent.com/67175109/126001666-477ea1fa-5272-4e60-b427-6751d62d4e80.PNG)
+![vzesa](https://user-images.githubusercontent.com/67175109/126001669-8d6fbb4c-9222-4a3b-abaf-124189bcb376.PNG)
+
           
 
