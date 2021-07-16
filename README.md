@@ -1,26 +1,13 @@
 # video-face-detection
-## Python Code 
-import cv2  
-  
-### Load the cascade  
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml or the dirctory ')  
-  
-### To capture video from existing video.   
-cap = cv2.VideoCapture('test.mp4')  
-  
-in while True:  
-    ### Read the frame  
-    _, img = cap.read()  
-  
-   import cv2  
-  
+## Python Code:
+import cv2   
 # Load the cascade  
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')  
   
 # To capture video from existing video.   
 cap = cv2.VideoCapture('test.mp4')  
   
-In while loop :
+### In while loop :
 ### Read the frame  
  _, img = cap.read()  
   
